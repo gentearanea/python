@@ -14,3 +14,5 @@ python
 参照演算子に注意
 
 git krakenじゃ草が生えない問題
+
+git krakenからのcommit test
